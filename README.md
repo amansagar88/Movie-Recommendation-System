@@ -4,6 +4,10 @@ This project demonstrates the development of a **Content-Based Movie Recommendat
 
 ---
 
+- There is some issue while showing the file in github you can download the file to view or use the [Google colab Notebook](https://colab.research.google.com/drive/1Ki_xxhkVufApstmVKMolq9FogkXHzrt9?usp=sharing)
+
+---
+
 ## 📌 Objective
 
 To build a recommendation system that suggests movies similar to a given movie or given description by analyzing and comparing movie rating and movie description using cosine similarity.
