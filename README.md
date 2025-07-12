@@ -27,7 +27,6 @@ We use two primary datasets:
 
 - Loaded and cleaned the metadata:
   - Handled missing values.
-  - 
 ---
 
 ## 🔍 Feature Engineering
@@ -82,6 +81,6 @@ Example:
 ## 🙌 Author
 
 **Aman Sagar**  
-**Aman Sagar**  
 *Aspiring Data Scientist | ML Enthusiast | Lifelong Learner*
+
 ---
